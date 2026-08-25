@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /Resumen.asp
+Disallow: /cgi-bin/
+
+Sitemap: http://www.afriba.com/sitemap.xml

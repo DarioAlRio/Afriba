@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-label="AFRIBA">
+  <title>AFRIBA</title>
+  <rect width="192" height="192" fill="#edf1f8"/>
+  <path fill="#002d9a" d="M96 14 182 178H10Z"/>
+  <g stroke="#fff" stroke-width="8" stroke-linecap="round" fill="none">
+    <path d="M96 62v66M67.4 78.5l57.2 33M124.6 78.5l-57.2 33"/>
+    <path d="m88 68 8 7.5 8-7.5M88 122l8-7.5 8 7.5"/>
+    <path d="m60.8 89.5 10.9 1.1-1.7 10.8M131.2 100.5l-10.9-1.1 1.7-10.8"/>
+    <path d="m60.8 100.5 10.9-1.1-1.7-10.8M131.2 89.5l-10.9 1.1 1.7 10.8"/>
+  </g>
+</svg>

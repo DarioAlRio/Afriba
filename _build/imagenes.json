@@ -1,0 +1,117 @@
+{
+  "edificio-afriba-entrada.jpg": {
+    "ancho": 960,
+    "alto": 376,
+    "webp": true
+  },
+  "camara-pasillo-estanterias.jpg": {
+    "ancho": 960,
+    "alto": 297,
+    "webp": true
+  },
+  "parque-movil-carretillas.jpg": {
+    "ancho": 960,
+    "alto": 297,
+    "webp": true
+  },
+  "equipos-radiofrecuencia.jpg": {
+    "ancho": 960,
+    "alto": 297,
+    "webp": true
+  },
+  "oficinas-sala-de-juntas.jpg": {
+    "ancho": 960,
+    "alto": 376,
+    "webp": true
+  },
+  "monitor-videovigilancia.jpg": {
+    "ancho": 960,
+    "alto": 297,
+    "webp": true
+  },
+  "edificio-afriba-lateral.jpg": {
+    "ancho": 576,
+    "alto": 432,
+    "webp": true
+  },
+  "scada-lectura-camara.png": {
+    "ancho": 960,
+    "alto": 376,
+    "webp": true
+  },
+  "camara-pasillo-central.jpg": {
+    "ancho": 192,
+    "alto": 118,
+    "webp": true
+  },
+  "muelles-camiones.jpg": {
+    "ancho": 192,
+    "alto": 118,
+    "webp": true
+  },
+  "sala-de-maquinas-compresores.jpg": {
+    "ancho": 192,
+    "alto": 118,
+    "webp": true
+  },
+  "transpaleta-electrica.jpg": {
+    "ancho": 192,
+    "alto": 118,
+    "webp": true
+  },
+  "terminal-radiofrecuencia.jpg": {
+    "ancho": 192,
+    "alto": 118,
+    "webp": true
+  },
+  "monitor-vigilancia-detalle.jpg": {
+    "ancho": 192,
+    "alto": 118,
+    "webp": true
+  },
+  "despacho-oficina.jpg": {
+    "ancho": 192,
+    "alto": 118,
+    "webp": true
+  },
+  "cuadro-electrico-control.jpg": {
+    "ancho": 192,
+    "alto": 118,
+    "webp": true
+  },
+  "scada-esquema-instalacion.png": {
+    "ancho": 192,
+    "alto": 118,
+    "webp": false
+  },
+  "pantalla-area-clientes.png": {
+    "ancho": 192,
+    "alto": 91,
+    "webp": false
+  },
+  "sello-ifs-logistics.jpg": {
+    "ancho": 222,
+    "alto": 228,
+    "webp": true
+  },
+  "sello-certicalidad-sae.jpg": {
+    "ancho": 233,
+    "alto": 230,
+    "webp": true
+  },
+  "sello-haccp.jpg": {
+    "ancho": 160,
+    "alto": 230,
+    "webp": true
+  },
+  "logotipo-afriba.jpg": {
+    "ancho": 960,
+    "alto": 120,
+    "webp": true
+  },
+  "og-afriba.jpg": {
+    "ancho": 1200,
+    "alto": 630,
+    "webp": false
+  }
+}

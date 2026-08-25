@@ -1,0 +1,35 @@
+# Generado por build.js — no editar a mano.
+# Redirecciones permanentes de las URL del sitio anterior.
+
+AddDefaultCharset UTF-8
+ErrorDocument 404 /404.html
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^Index\.html$ /index.html [R=301,L,NC]
+  RewriteRule ^Servicios\.html$ /servicios.html [R=301,L,NC]
+  RewriteRule ^Equipamiento\.html$ /equipamiento.html [R=301,L,NC]
+  RewriteRule ^RRHH\.html$ /equipo.html [R=301,L,NC]
+  RewriteRule ^Presupuesto\.html$ /presupuesto.html [R=301,L,NC]
+  RewriteRule ^Clientes\.html$ /clientes.html [R=301,L,NC]
+  RewriteRule ^Contacto\.html$ /presupuesto.html [R=301,L,NC]
+  RewriteRule ^171225\.html$ /junta-general.html [R=301,L,NC]
+  RewriteRule ^221124\.html$ /junta-general.html [R=301,L,NC]
+  RewriteRule ^Aviso_legal\.html$ /aviso-legal.html [R=301,L,NC]
+  RewriteRule ^Politica_privacidad\.html$ /politica-de-privacidad.html [R=301,L,NC]
+  RewriteRule ^Politica_cookies\.html$ /politica-de-cookies.html [R=301,L,NC]
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/javascript application/javascript image/svg+xml
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType text/javascript "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType text/html "access plus 1 hour"
+</IfModule>

@@ -1,0 +1,13 @@
+# El sitio no necesita dependencias: node_modules solo aparece si se instala
+# sharp para recomprimir imágenes, y se puede borrar al terminar.
+node_modules/
+package-lock.json
+package.json
+
+# Basura del sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Configuración local del editor
+.claude/

@@ -1,0 +1,11 @@
+# El repositorio guarda siempre finales de línea LF, se trabaje en Windows,
+# en macOS o en Linux. Así el generador produce el mismo HTML en cualquiera.
+* text=auto eol=lf
+
+# Binarios: que git no intente convertir nada.
+*.png binary
+*.jpg binary
+*.webp binary
+*.gif binary
+*.pdf binary
+*.ico binary
