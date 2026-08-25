@@ -50,21 +50,21 @@ vuelve a aparecer.
 
 ### Si se publica con GitHub Pages
 
-El repositorio () lleva un  para que
+El repositorio (`github.com/DarioAlRio/Afriba`) lleva un `.nojekyll` para que
 GitHub sirva los archivos tal cual, sin procesarlos. Con eso, activar Pages
 desde *Settings → Pages → Deploy from a branch → main / (root)* deja el sitio
 en línea sin tocar nada más.
 
 Dos avisos, porque Pages no es un servidor completo:
 
-- **No lee  ni .** De las redirecciones antiguas solo
+- **No lee `.htaccess` ni `_redirects`.** De las redirecciones antiguas solo
   funcionarían los 6 archivos de refresco. Las 12 reglas 301 se pierden, así
   que como destino definitivo Pages es peor que un alojamiento normal.
-- **El formulario no enviará nada**, porque  no existe
-  allí. Quedaría solo la salida por correo. Ver .
+- **El formulario no enviará nada**, porque `cgi-bin/afriba.exe` no existe
+  allí. Quedaría solo la salida por correo. Ver `PENDIENTE.md`.
 
 Para una vista previa que enseñar al cliente va perfecto. Para publicar de
-verdad, mejor el alojamiento donde vive hoy .
+verdad, mejor el alojamiento donde vive hoy `afriba.com`.
 
 ### La página de error 404
 
