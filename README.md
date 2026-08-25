@@ -48,6 +48,24 @@ la vista): `_build/`, `build.js`, `_original-sitio/`, `_capturas/`,
 `README.md`, `PENDIENTE.md`, `PRODUCT.md`, `DESIGN.md`, y `node_modules/` si
 vuelve a aparecer.
 
+### Si se publica con GitHub Pages
+
+El repositorio () lleva un  para que
+GitHub sirva los archivos tal cual, sin procesarlos. Con eso, activar Pages
+desde *Settings → Pages → Deploy from a branch → main / (root)* deja el sitio
+en línea sin tocar nada más.
+
+Dos avisos, porque Pages no es un servidor completo:
+
+- **No lee  ni .** De las redirecciones antiguas solo
+  funcionarían los 6 archivos de refresco. Las 12 reglas 301 se pierden, así
+  que como destino definitivo Pages es peor que un alojamiento normal.
+- **El formulario no enviará nada**, porque  no existe
+  allí. Quedaría solo la salida por correo. Ver .
+
+Para una vista previa que enseñar al cliente va perfecto. Para publicar de
+verdad, mejor el alojamiento donde vive hoy .
+
 ### La página de error 404
 
 Hay una `404.html` propia, con el buscador de secciones y los teléfonos. Para
